@@ -1,7 +1,4 @@
 # Banking Management System
- <p><i>Forked from mainlyNitin's Banking Management Systems Project</i></p>
-<a id="readme-top"></a>
-
 <div align="center">
   <img src="assets/bank-logo.png" alt="Banking System" width="400"  height="auto" >
   <br/>
@@ -88,7 +85,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. **Clone the repository**
 ```sh
-git clone https://github.com/geekmanesh/banking-management-system-python.git
+git clone <your repo">
 cd banking-management-system-python
 ```
 
@@ -141,16 +138,6 @@ python -m src.main
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a id="authors"></a>
-
-👤 **Geekmanesh**
-
-- GitHub: [@geekmanesh](https://github.com/geekmanesh)
-
-👤 **mainlyNitin**
-
-- Github: [@mainlyNitin](https://github.com/mainlyNitin)
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a id="future-features"></a>
@@ -165,36 +152,13 @@ python -m src.main
 - [ ] **Data Backup** - Automated database backup system
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 👨‍💻 Author
 
-<!-- CONTRIBUTING -->
+**Chinmay Kulkarni**
 
-## 🤝 Contributing <a id="contributing"></a>
+**Project:** Banking System Using Python  
+**Institution:** Indian Institute of Technology Delhi (IIT Delhi)  
+**Duration:** December 2023 – January 2024  
+**Technologies:** Python, Tkinter, SQLite
 
-Contributions, issues, and feature requests are welcome!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a id="support"></a>
-
-If you like this project, please give it a ⭐️! This helps others discover the project and encourages further development.
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 💝 Credits <a id="credits"></a>
-
-- **Original Project**: This project is forked from [Banking-Management-Systems](https://github.com/mainlyNitin/Banking-Management-Systems) by [mainlyNitin](https://github.com/mainlyNitin)
-- Thanks to mainlyNitin for this good project that learn me a lot
-
-
-## 📝 License <a id="license"></a>
-
-This project is [MIT](LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-# banking-management-system
+- Developed a banking system using Python, Tkinter, and SQLite.

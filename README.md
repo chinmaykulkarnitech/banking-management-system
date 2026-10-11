@@ -158,10 +158,6 @@ python -m src.main
 - **Banking System Using Python** — Indian Institute of Technology Delhi (IIT Delhi), December 2023 – January 2024  
   [View Certificate](https://github.com/chinmaykulkarnitech/banking-management-system/blob/main/CHINMAY%20SANTOSH%20KULKARNI_SPW%20%20Dec_23%20-%20Jan_24.png)
 
-  ## 📜 Certifications
-
-**Banking System Using Python — IIT Delhi**
-
 ![Chinmay Kulkarni Certificate](CHINMAY%20SANTOSH%20KULKARNI_SPW%20%20Dec_23%20-%20Jan_24.png)
 ## 👨‍💻 Author
 
